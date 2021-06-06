@@ -5,7 +5,6 @@ layout: default
 Hello!
 I am a Ph.D student in CSE at Seoul National University.
 I am fortunate to be advised by [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/).
-In 2019, I received [Google PhD Fellowship](https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html) in Natural Language Processing.
 
 My research interest is in the field of Natural Language Generation, especially about
 (i) understanding data and defining new tasks,
