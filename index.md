@@ -62,9 +62,8 @@ ICLR 2018
 
 ### Awards & Honorships
 
-- [Samsung Humantech Paper Award](https://humantech.samsung.com/saitext/intro.do) <br/> 
-Silver Prize in Signal Processing, 2021
-- Magna Cum Laude Honor <br/>
+- [**Samsung Humantech Paper Award**](https://humantech.samsung.com/saitext/intro.do) (Silver Prize in Signal Processing, 2021)
+- **Magna Cum Laude Honor**
 at Sogang University, 2018
 
 
