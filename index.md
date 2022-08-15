@@ -32,7 +32,7 @@ and (iii) utilizing high-level semantic information for place recognition.
 </h4>
 
 - B.S. in [Computer Science and Engineering]
-- Cumulative GPA: 3.58 / 4.3 (3.88 / 4.5), Magna Cum Laude
+- Cumulative GPA: 3.58 / 4.3 (3.88 / 4.5), **Magna Cum Laude**
 
 [Computer Science and Engineering]: https://ecs.sogang.ac.kr/ecs/index_new.html
 
