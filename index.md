@@ -62,38 +62,12 @@ ICLR 2018
 
 ### Awards & Honorships
 
-- NAVER PhD Fellowship (2020)
-- [Qualcomm Innovation Fellowship Korea](https://www.qualcomm.com/research/research/university-relations/innovation-fellowship/2020-south-korea) (2020)
-- [Samsung Humantech Paper Award](https://humantech.samsung.com/saitext/index.jsp) (Gold Prize, 1st in Signal Processing, 2020)
-- [Google PhD Fellowship](https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html) (Natural Language Processing, 2019)
-- [Google Conference and Travel Scholarships](https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/) (2019)
-- [Samsung Convergence Software Course](https://cse.snu.ac.kr/scsc/node/19) Mentor Scholarship (2016-2017)
+- [Samsung Humantech Paper Award](https://humantech.samsung.com/saitext/intro.do) (Silver Prize in Signal Processing, 2021)
+- Magna Cum Laude Honor at Sogang University (2018)
+
 
 ### Development Projects
 
-- [language-evaluation]
-<a href="https://github.com/bckim92/language-evaluation">
-  <img class="shield-star" src="https://img.shields.io/github/stars/bckim92/language-evaluation.svg?style=social&amp;label=Star&amp;maxAge=86400">
-</a><br/>
-📋 Collection of evaluation code for natural language generation.
-
-- [zsh-autoswitch-conda]
-<a href="https://github.com/bckim92/language-evaluation">
-  <img class="shield-star" src="https://img.shields.io/github/stars/bckim92/zsh-autoswitch-conda.svg?style=social&amp;label=Star&amp;maxAge=86400">
-</a><br/>
-💻 ZSH plugin to automatically switch conda environments as you move between directories
-
-<!--
-- [dash-docset-allennlp]
-<a href="https://github.com/bckim92/dash-docset-allennlp">
-  <img class="shield-star" src="https://img.shields.io/github/stars/bckim92/dash-docset-allennlp.svg?style=social&amp;label=Star&amp;maxAge=86400">
-</a><br/>
-📄 Dash docset for AllenNLP
--->
-- SNUVL GPU Cluster<br/>
-I am one of the main system administrators of SNUVL GPU cluster, which effectively serves ~200 GPUs to ~35 users.
-We use Ansible, LDAP, Slurm, Prometheus, Grafana, DFS, gpustat-web, and IPMI to build a scalable and stable system.
-
-[language-evaluation]: https://github.com/bckim92/language-evaluation
-[zsh-autoswitch-conda]: https://github.com/bckim92/zsh-autoswitch-conda
-[dash-docset-allennlp]: https://github.com/bckim92/dash-docset-allennlp
+- **DeepGuider** <sup>2019.02 - Current</sup> <br/>
+This government-funded research project is to develop a navigation guidance system that enables robots to navigate in urban environment without the need of pre-mapping of the environment.
+<a href="https://github.com/deepguider/DeepGuider"></a><br/>
