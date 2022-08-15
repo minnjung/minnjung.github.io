@@ -27,7 +27,7 @@ and (iii) utilizing high-level semantic information for place recognition.
 
 <h4 class="education">
   <i class="material-icons md-18">school</i>
-  <a href="http://en.snu.ac.kr/">Sogang University</a>, Seoul, Korea
+  <a href="https://wwwe.sogang.ac.kr/wwwe/index_new.html">Sogang University</a>, Seoul, Korea
   <sup>2014.03 - 2018.02</sup>
 </h4>
 
@@ -39,55 +39,25 @@ and (iii) utilizing high-level semantic information for place recognition.
 
 ### Publications
 
-<!--
-- [Shared Neural Representation-inspired Empathetic Response Generation]() <br/>
-Hyunwoo Kim, **Byeongchang Kim** and Gunhee Kim <br/>
-ICLR 2021 Brain2AI Workshop
--->
 
-- [How Robust are Fact Checking Systems on Colloquial Claims?]() <br/>
-**Byeongchang Kim**\*, Hyunwoo Kim\*, Seokhee Hong and Gunhee Kim <br/>
-NAACL-HLT 2021
-<small>(also at ICLR 2021 [Neural Conversational AI (NeuCAIR) Workshop](https://sites.google.com/view/neucair-workshop))</small> <br/>
-
-
-- [*Will I Sound Like Me*? Improving Persona Consistency in Dialogues through <br/> Pragmatic Self-Consciousness](https://arxiv.org/abs/2004.05816) <br/>
-Hyunwoo Kim, **Byeongchang Kim** and Gunhee Kim <br/>
-EMNLP 2020
-<small>(also at ICLR 2020 [Bridging AI and Cognitive Science (BAICS) Workshop](https://baicsworkshop.github.io/papers.html) (oral))</small> <br/>
-<a class="code" href="https://github.com/skywalker023/pragmatic-consistency">[code]</a>
+- **Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration** <br/>
+Jaekyeom Kim, **Minjung Kim**, Dongyeon Woo, Gunhee Kim <br/>
+ICLR 2021
+<a class="code" href="https://openreview.net/forum?id=1rxHOBjeDUW">[OpenReview]</a>
+<a class="code" href="https://arxiv.org/abs/2103.12300">[arxiv]</a>
+<a class="code" href="https://openreview.net/pdf?id=1rxHOBjeDUW">[pdf]</a>
+<a class="code" href="https://iclr.cc/virtual/2021/poster/3127">[talk]</a>
+<a class="code" href="https://github.com/jaekyeom/drop-bottleneck">[code]</a>
 
 
-- [Sequential Latent Knowledge Selection for Knowledge-Grounded Dialogue](https://arxiv.org/abs/2002.07510) <br/>
-**Byeongchang Kim**, Jaewoo Ahn and Gunhee Kim <br/>
-ICLR 2020 (spotlight) <br/>
-<a class="code" href="https://openreview.net/forum?id=Hke0K1HKwr">[OpenReview]</a>
-<a class="code" href="https://github.com/bckim92/sequential-knowledge-transformer">[code/dataset]</a>
-<a class="code" href="https://drive.google.com/open?id=16tdavuCPoWwtGqg9KAkqI71TxG8nVkbs">[slide]</a>
+- **Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks** <br/>
+Youngjin Kim, **Minjung Kim**, Gunhee Kim <br/>
+ICLR 2018
+<a class="code" href="https://openreview.net/forum?id=rkO3uTkAZ">[OpenReview]</a>
+<a class="code" href="https://arxiv.org/abs/1803.01500">[arxiv]</a>
+<a class="code" href="https://openreview.net/pdf?id=rkO3uTkAZ">[pdf]</a>
+<a class="code" href="https://github.com/whyjay/memoryGAN">[code]</a>
 
-- [*AudioCaps*: Generating Captions for Audios in The Wild](https://www.aclweb.org/anthology/N19-1011/)<br/>
-Chris Dongjoo Kim, **Byeongchang Kim**, Hyunmin Lee and Gunhee Kim <br/>
-NAACL-HLT 2019 (oral) <br/>
-<a class="code" href="https://audiocaps.github.io/">Project Page [code/dataset]</a>
-
-- [Abstractive Summarization of *Reddit* Posts with Multi-level Memory Networks](https://arxiv.org/abs/1811.00783) <br/>
-**Byeongchang Kim**, Hyunwoo Kim and Gunhee Kim <br/>
-NAACL-HLT 2019 (oral) <br/>
-<a class="code" href="https://github.com/ctr4si/MMN/">[code/dataset]</a>
-<a class="code" href="https://drive.google.com/open?id=17nGtwNewII9Uqxmq4Rp_xmQtCJPAZRnz">[slide]</a>
-
-- [Towards Personalized Image Captioning via Multimodal Memory Networks](https://ieeexplore.ieee.org/abstract/document/8334621/) <br/>
-Cesc Chunseong Park, **Byeongchang Kim** and Gunhee Kim <br/>
-IEEE TPAMI 2018 <br/>
-<a class="code" href="https://github.com/cesc-park/attend2u">[code/dataset]</a>
-<a class="code" href="https://drive.google.com/open?id=1U15fsIXTqBgrKH7WcD9Vgru_A0OPBsFq">[slide]</a>
-
-- [*Attend to you*: Personalized Image Captioning with Context Sequence Memory Networks](https://arxiv.org/abs/1704.06485) <br/>
-Cesc Chunseong Park, **Byeongchang Kim** and Gunhee Kim <br/>
-CVPR 2017 (spotlight) <br/>
-<a class="code" href="https://github.com/cesc-park/attend2u">[code/dataset]</a>
-<a class="code" href="https://drive.google.com/open?id=1Om5_2Q4YpU1kzOdE62Fnb7SfLwhcWiZS">[slide]</a>
-<a class="code" href="https://drive.google.com/open?id=1ZtFnQLTx6b6npKhJgbn1yGxK0-SjdCjp">[poster]</a>
 
 
 ### Awards & Honorships
