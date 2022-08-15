@@ -62,12 +62,14 @@ ICLR 2018
 
 ### Awards & Honorships
 
-- [Samsung Humantech Paper Award](https://humantech.samsung.com/saitext/intro.do) (Silver Prize in Signal Processing, 2021)
-- Magna Cum Laude Honor at Sogang University (2018)
+- [Samsung Humantech Paper Award](https://humantech.samsung.com/saitext/intro.do) <br/> 
+Silver Prize in Signal Processing, 2021
+- Magna Cum Laude Honor <br/>
+at Sogang University, 2018
 
 
 ### Development Projects
 
 - **DeepGuider** <sup>2019.02 - Current</sup> <br/>
-This government-funded research project is to develop a navigation guidance system that enables robots to navigate in urban environment without the need of pre-mapping of the environment.
-<a href="https://github.com/deepguider/DeepGuider"></a><br/>
+This government-funded research project is to develop a navigation guidance system that enables robots to navigate in urban environment without the need of pre-mapping of the environment. 
+<a class="code" href="https://github.com/deepguider/DeepGuider">[code]</a>
