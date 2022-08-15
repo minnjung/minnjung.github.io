@@ -3,19 +3,13 @@ layout: default
 ---
 
 Hello!
-I am a Ph.D student in CSE at Seoul National University.
-I am fortunate to be advised by [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/).
+I am a Ph.D student in CSE at Seoul National University, and studying under the supervision of [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/).
 
-My research interest is in the field of Natural Language Generation, especially about
-(i) understanding data and defining new tasks,
+My research interests are in the field of 3D Place Recognition and Visual Localization, especially about
+(i) understanding the scene from images and point clouds,
 (ii) dealing with multi-modalities,
-and (iii) incorporating reasoning with generation.
-<!--
-I do research in natural language processing, focusing on generating sentences from various types of contexts (e.g. image, text and audio).
--->
+and (iii) utilizing high-level semantic information for place recognition.
 
-I also believe impactful work can come from scalable infrastructure.
-Therefore, I spend <br/> my spare time to build and maintain our lab's GPU cluster (~200GPUs).
 
 ### Education
 
@@ -23,25 +17,27 @@ Therefore, I spend <br/> my spare time to build and maintain our lab's GPU clust
 <h4 class="education">
   <i class="material-icons md-18">account_balance</i>
   <a href="http://en.snu.ac.kr/">Seoul National University (SNU)</a>, Seoul, Korea
-  <sup>2016.03 - Current</sup>
+  <sup>2018.03 - Current</sup>
 </h4>
 
 - Integrated M.S./Ph.D. student in [Computer Science and Engineering]
 - Advisor: [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/)
 
+[Computer Science and Engineering]: https://cse.snu.ac.kr/en
+
 <h4 class="education">
   <i class="material-icons md-18">school</i>
-  <a href="http://en.snu.ac.kr/">Seoul National University (SNU)</a>, Seoul, Korea
-  <sup>2011.03 - 2016.02</sup>
+  <a href="http://en.snu.ac.kr/">Sogang University</a>, Seoul, Korea
+  <sup>2014.03 - 2018.02</sup>
 </h4>
 
-- B.S. in [Biosystems Engineering] & [Computer Science and Engineering]
+- B.S. in [Computer Science and Engineering]
+- Cumulative GPA: 3.58 / 4.3 (3.88 / 4.5), Magna Cum Laude
 
-[Computer Science and Engineering]: https://cse.snu.ac.kr/en
-[Biosystems Engineering]: http://bse.snu.ac.kr/new/eng/index.html
+[Computer Science and Engineering]: https://ecs.sogang.ac.kr/ecs/index_new.html
 
 
-### Publications (\* equal contribution)
+### Publications
 
 <!--
 - [Shared Neural Representation-inspired Empathetic Response Generation]() <br/>
