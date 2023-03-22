@@ -44,7 +44,6 @@ and (iii) utilizing high-level semantic information for place recognition.
 Seohyun Jeon, **Minjung Kim**, Seunghwan Park, Jaeyoung Lee <br/>
 UR 2022
 
-
 - **Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration** <br/>
 Jaekyeom Kim, **Minjung Kim**, Dongyeon Woo, Gunhee Kim <br/>
 ICLR 2021
@@ -54,11 +53,9 @@ ICLR 2021
 <a class="code" href="https://iclr.cc/virtual/2021/poster/3127">[talk]</a>
 <a class="code" href="https://github.com/jaekyeom/drop-bottleneck">[code]</a>
 
-
 - **Logo Detection and Recognition Algorithm using YOLO-v3 Model** <br/>
 **Minjung Kim**, Sungen Kim, Gunhee Kim <br/>
 CICS 2020
-
 
 - **Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks** <br/>
 Youngjin Kim, **Minjung Kim**, Gunhee Kim <br/>
@@ -73,6 +70,7 @@ ICLR 2018
 ### Awards & Honorships
 
 - [**Samsung Humantech Paper Award**](https://humantech.samsung.com/saitext/intro.do) (Silver Prize in Signal Processing, 2021)
+
 - **Magna Cum Laude Honor**
 at Sogang University, 2018
 
@@ -82,3 +80,12 @@ at Sogang University, 2018
 - **DeepGuider** <sup>2019.02 - Current</sup> <br/>
 This government-funded research project is to develop a navigation guidance system that enables robots to navigate in urban environment without the need of pre-mapping of the environment. 
 <a class="code" href="https://github.com/deepguider/DeepGuider">[code]</a>
+
+
+### Professional Activities
+
+- **Reviewer of International Conferences** <br/>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023 <br/>
+Asian Conference on Computer Vision (ACCV) 2022 <br/>
+International Conference on Learning Representations (ICLR) 2022, 2023 <br/>
+Neural Information Processing Systems (NeurIPS) 2021, 2022 <br/>
