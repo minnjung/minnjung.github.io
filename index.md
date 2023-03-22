@@ -7,7 +7,7 @@ I am a Ph.D student in CSE at Seoul National University, and studying under the 
 
 My research interests are in the field of 3D Place Recognition and Visual Localization, especially about
 (i) understanding the scene from images and point clouds,
-(ii) dealing with multi-modalities,
+(ii) dealing with cross-modalities,
 and (iii) utilizing high-level semantic information for place recognition.
 
 
