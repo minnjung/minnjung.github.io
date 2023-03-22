@@ -40,6 +40,11 @@ and (iii) utilizing high-level semantic information for place recognition.
 ### Publications
 
 
+- **Indoor/Outdoor Transition Recognition Based on Door Detection** <br/>
+Seohyun Jeon, **Minjung Kim**, Seunghwan Park, Jaeyoung Lee <br/>
+UR 2022
+
+
 - **Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration** <br/>
 Jaekyeom Kim, **Minjung Kim**, Dongyeon Woo, Gunhee Kim <br/>
 ICLR 2021
@@ -48,6 +53,11 @@ ICLR 2021
 <a class="code" href="https://openreview.net/pdf?id=1rxHOBjeDUW">[pdf]</a>
 <a class="code" href="https://iclr.cc/virtual/2021/poster/3127">[talk]</a>
 <a class="code" href="https://github.com/jaekyeom/drop-bottleneck">[code]</a>
+
+
+- **Logo Detection and Recognition Algorithm using YOLO-v3 Model** <br/>
+**Minjung Kim**, Sungen Kim, Gunhee Kim <br/>
+CICS 2020
 
 
 - **Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks** <br/>
