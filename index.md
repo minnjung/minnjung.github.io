@@ -43,7 +43,7 @@ and (iii) utilizing high-level semantic information for place recognition.
 ### Publications
 
 - **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization** <br/>
-**Minjung Kim**, Sungen Kim, Gunhee Kim <br/>
+**Minjung Kim**, Junseo Koo, Gunhee Kim <br/>
 (submitted)
 
 - **Indoor/Outdoor Transition Recognition Based on Door Detection** <br/>
@@ -83,15 +83,12 @@ KCS 2017
 
 ### Awards & Honorships
 
-- [**Animal Datathon Korea**](https://blog.naver.com/aidkr/222518300737) <sup>2021.07</sup> <br/>
-Predicting joint coordinates of a cow for pose estimation; **2nd place**
-- [**Samsung Humantech Paper Award**](https://humantech.samsung.com/saitext/intro.do) <sup>2021.02</sup> <br/>
-Silver Prize in Signal Processing
-- [**KSC 2017 Paper Award**](http://www.kiise.or.kr/conference/board/boardview.do?CC=KSC&CS=2017&PARENT_ID=011400&NUM=104) <sup>2018.02</sup> <br/>
+- [**Animal Datathon Korea**](https://blog.naver.com/aidkr/222518300737) (2nd place, 2021)
+- [**Samsung Humantech Paper Award**](https://humantech.samsung.com/saitext/intro.do) (Silver Prize in Signal Processing, 2021)
+- [**KSC 2017 Paper Award**](http://www.kiise.or.kr/conference/board/boardview.do?CC=KSC&CS=2017&PARENT_ID=011400&NUM=104) (Encouragement Award, 2018)
 - **Magna Cum Laude Honor** at Sogang University, 2018
 - **Academic Excellence Scholarship** at Sogang University, 2017 and 2018.
-- **Windows 10 IoT Core & Microsoft Azure for Microsoft IoT Solution Competition** <sup>2017.04</sup> <br/>
-Implementing Internet of Things (IoT) projects with Windows 10 IoT Core and Microsoft Azure; **10th place**
+- **Windows 10 IoT Core & Microsoft Azure for Microsoft IoT Solution Competition** (10th place, 2017)
 
 
 
