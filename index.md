@@ -115,7 +115,7 @@ The code will be released after acceptance.
 To understand deep learning papers, we explain the basic concepts of probability and Bayesian, and introduce papers related to Bayesian neural networks.
 This lecture can be taken through [edwith](https://www.edwith.org/) of Naver Connect.
 
-- **Sketch based Face Image Generation with Text Mapping** <sup>2017.09 - 2018.02</sup> <a class="code" href="https://github.com/hyungsuklim/metamon">[lecture]</a> <br/> 
+- **Sketch based Face Image Generation with Text Mapping** <sup>2017.09 - 2018.02</sup> <a class="code" href="https://github.com/hyungsuklim/metamon">[code]</a> <br/> 
 A typical sketch might have been uncomfortable when a person or program was used to map a person's features in detail.
 This process is limited not only because it is very complex and requires technicians, but also because it creates a feeling of incompatibility with real people.
 This program, named Metamon, makes a picture of a person's face by entering the image of the border sketch of the person's face and the text information that shows the characteristics of the face.
@@ -124,7 +124,7 @@ This program, named Metamon, makes a picture of a person's face by entering the 
 I create tutorial pages with Youtube videos and code for beginners in Arduino kit and Raspberry Pi development.
 I introduce the concept of the Internet of Things (IoT) and work on a mini-project using [ThingSpeak](https://thingspeak.com/).
 
-- **Sogang Navigation and Introduction (SNI)** <sup>2015.03 - 2015.07</sup> <a class="code" href="https://github.com/hyungsuklim/SGCS-Assignment/tree/master/2015/Data-Structure_2015/Project">[project]</a> <br/> 
+- **Sogang Navigation and Introduction (SNI)** <sup>2015.03 - 2015.07</sup> <a class="code" href="https://github.com/hyungsuklim/SGCS-Assignment/tree/master/2015/Data-Structure_2015/Project">[code]</a> <br/> 
 We develop a navigation system that introduces the internal facilities of each building and displays the shortest route and time from building to building using the Floyd-Washall algorithm.
 To build data for the development, we measured the time taken by walking directly on each path.
 
