@@ -95,14 +95,13 @@ KCS 2017
 ### Development Projects
 
 - **DeepGuider** <sup>2019.02 - Current</sup> <a class="code" href="https://github.com/deepguider/DeepGuider">[code]</a> <br/> 
-DeepGuider Project is a research project funded by national government.
-This project aims to develop a navigation guidance system that enables robots to navigate in urban environment without the need of pre-mapping of the environment.
-I contribute to finding clues to locate autonomous robots by detecting and recognizing points of interests (POIs) in images of a scene.
-This includes detecting and recognizing text including Korean, English and numbers in scenes, recognizing landmarks, recognizing doors for indoor-outdoor transition, and devising training methods that are robust to environmental changes.
+The DeepGuider Project is a national government-funded research project focused on developing a navigation guidance system for robots to navigate urban environments without pre-mapping.
+I contribute to finding clues to locate autonomous robots by detecting and recognizing points of interests (POIs) in images of a scene, including text, landmarks, and doors for indoor-outdoor transition, while also developing robust training methods for environmental changes.
 
 - **PRIDE: 3D Place Recognition In Dynamic Environment** <sup>2022.03 - Current</sup> <a class="code" href="https://github.com/minnjung/PRIDE">[code]</a> <br/> 
-In this work, we first contribute a new dataset named PRIDE (3D Place Recognition In Dynamic Environment), using Lyft Level 5 and KITTI datasets, as a more realistic and challenging benchmark for 3D place recognition.
-We also propose a PRIDE-Net architecture with a new loss that focuses on extracting discriminative global descriptors with capturing global context using spatial information and being robust to such dynamic environments using an auxiliary task to reduce the influence of dynamic objects.
+This work proposes a new dataset called PRIDE, which includes dynamic objects such as cars and pedestrians, for 3D place recognition in dynamic environments that are more realistic and challenging than current benchmark datasets.
+The proposed PRIDE-Net architecture with a new loss function focuses on extracting discriminative global descriptors and capturing global context using spatial information, while being robust to dynamic environments.
+Experiments on the PRIDE dataset and existing benchmarks show that our proposed method outperforms previous methods and that each proposed module effectively improves performance.
 The code will be released after acceptance.
 
 - **FCAT: Fully Convolutional Network with Self-Attention for Point Cloud based Place Recognition** <sup>2020.12 - 2022.02</sup> <a class="code" href="https://github.com/minnjung/FCAT">[code]</a> <br/> 
@@ -141,3 +140,4 @@ Neural Information Processing Systems (NeurIPS) 2021, 2022, 2023 <br/>
 
 - **Technical Coaching** <br/>
 2022-3 SK hynix ML Engineer Technical Coaching
+
