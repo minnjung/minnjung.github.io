@@ -49,6 +49,7 @@ and (iii) utilizing high-level semantic information for place recognition.
 - **Indoor/Outdoor Transition Recognition Based on Door Detection** <br/>
 Seohyun Jeon, **Minjung Kim**, Seunghwan Park, Jaeyoung Lee <br/>
 UR 2022
+<a class="code" href="https://ieeexplore.ieee.org/abstract/document/9826236">[pdf]</a>
 
 - **Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration** <br/>
 Jaekyeom Kim, **Minjung Kim**, Dongyeon Woo, Gunhee Kim <br/>
