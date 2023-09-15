@@ -45,6 +45,7 @@ and (iii) utilizing high-level semantic information for place recognition.
 - **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization** <br/>
 **Minjung Kim**, Junseo Koo, Gunhee Kim <br/>
 ICCV 2023
+<a class="code" href="http://arxiv.org/abs/2309.07471">[pdf]</a>
 
 - **Indoor/Outdoor Transition Recognition Based on Door Detection** <br/>
 Seohyun Jeon, **Minjung Kim**, Seunghwan Park, Jaeyoung Lee <br/>
