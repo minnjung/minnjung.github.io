@@ -64,6 +64,7 @@ ICLR 2021
 - **Logo Detection and Recognition Algorithm using YOLO-v3 Model** <br/>
 **Minjung Kim**, Sungen Kim, Gunhee Kim <br/>
 CICS 2020
+<a class="code" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10492565">[pdf]</a>
 
 - **Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks** <br/>
 Youngjin Kim, **Minjung Kim**, Gunhee Kim <br/>
