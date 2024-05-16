@@ -84,6 +84,17 @@ KCS 2017
 
 
 
+### Experiences
+<h4 class="experiences">
+  <i class="material-icons md-18">work</i>
+  <a href="https://www.lgresearch.ai/ourwork/research?tab=PG">LG AI Research</a>, Seoul, Korea
+  <sup>2023.06 - Current</sup>
+</h4>
+
+- Research intern
+
+
+
 ### Awards & Honorships
 
 - [**Animal Datathon Korea**](https://blog.naver.com/aidkr/222518300737) (2nd place, 2021)
