@@ -43,7 +43,7 @@ and (iii) utilizing high-level semantic information for place recognition and 3D
 ### Publications
 
 - **See It All: Contextualized Late Aggregation for 3D Dense Captioning** <br/>
-**Minjung Kim**, Hyung Suk Lim, Seung Hwan Kim, Soonyoung Lee, Bumsoo Kim, Gunhee Kim <br/>
+**Minjung Kim**, Hyung Suk Lim, Seung Hwan Kim, Soonyoung Lee, Bumsoo Kim*, Gunhee Kim* <br/>
 ACL 2024 Findings
 <a class="code" href="https://openreview.net/forum?id=NVhRn_B29i">[OpenReview]</a>
 
@@ -112,7 +112,7 @@ KCS 2017
 - **Windows 10 IoT Core & Microsoft Azure for Microsoft IoT Solution Competition** (10th place, 2017)
 
 
-
+<!--
 ### Development Projects
 
 - **DeepGuider** <sup>2019.02 - 2023.04</sup> <a class="code" href="https://github.com/deepguider/DeepGuider">[code]</a> <br/> 
@@ -148,13 +148,15 @@ I introduce the concept of the Internet of Things (IoT) and work on a mini-proje
 We develop a navigation system that introduces the internal facilities of each building and displays the shortest route and time from building to building using the Floyd-Washall algorithm.
 To build data for the development, we measured the time taken by walking directly on each path.
 
+-->
 
 
 ### Professional Activities
 
 - **Reviewer of International Conferences** <br/>
-IEEE/CVF International Conference on Computer Vision (ICCV) 2023 <br/>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023 <br/>
+European Conference on Computer Vision (ECCV) 2024 <br/>
+International Conference on Computer Vision (ICCV) 2023 <br/>
+Conference on Computer Vision and Pattern Recognition (CVPR) 2023 <br/>
 Asian Conference on Computer Vision (ACCV) 2022 <br/>
 International Conference on Learning Representations (ICLR) 2022, 2023 <br/>
 Neural Information Processing Systems (NeurIPS) 2021, 2022, 2023 <br/>
