@@ -85,7 +85,7 @@ ICLR 2018
 KCS 2017
 
 - **Sketch based Face Image Generation with Text Mapping** <br/>
-**Minjung Kim**, Hyungsuk Lim, Yeongjoon Park, Yeseul Joo, MyoungWan Koo <br/>
+**Minjung Kim**, Hyung Suk Lim, Yeongjoon Park, Yeseul Joo, Myoungwan Koo <br/>
 KCS 2017
 
 
