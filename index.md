@@ -5,10 +5,10 @@ layout: default
 Hello!
 I am a Ph.D student in CSE at Seoul National University, and studying under the supervision of [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/).
 
-My research interests are in the field of 3D Place Recognition and Visual Localization, especially about
+My research interests are in the field of Visual Localization and 3D Dense Captioning, especially about
 (i) understanding the scene from images and point clouds, 
-(ii) dealing with 2D-3D cross-modalities, 
-and (iii) utilizing high-level semantic information for place recognition.
+(ii) dealing with multi-modalities, 
+and (iii) utilizing high-level semantic information for place recognition and 3D dense captioning.
 
 
 
@@ -42,10 +42,16 @@ and (iii) utilizing high-level semantic information for place recognition.
 
 ### Publications
 
+- **See It All: Contextualized Late Aggregation for 3D Dense Captioning** <br/>
+**Minjung Kim**, Hyung Suk Lim, Seung Hwan Kim, Soonyoung Lee, Bumsoo Kim, Gunhee Kim <br/>
+ACL 2024 Findings
+<a class="code" href="https://openreview.net/forum?id=NVhRn_B29i">[OpenReview]</a>
+
 - **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization** <br/>
 **Minjung Kim**, Junseo Koo, Gunhee Kim <br/>
 ICCV 2023
 <a class="code" href="http://arxiv.org/abs/2309.07471">[pdf]</a>
+<a class="code" href="https://github.com/minnjung/EP2P-Loc">[code]</a>
 
 - **Indoor/Outdoor Transition Recognition Based on Door Detection** <br/>
 Seohyun Jeon, **Minjung Kim**, Seunghwan Park, Jaeyoung Lee <br/>
@@ -85,6 +91,7 @@ KCS 2017
 
 
 ### Experiences
+
 <h4 class="experiences">
   <i class="material-icons md-18">work</i>
   <a href="https://www.lgresearch.ai/ourwork/research?tab=PG">LG AI Research</a>, Seoul, Korea
@@ -108,7 +115,7 @@ KCS 2017
 
 ### Development Projects
 
-- **DeepGuider** <sup>2019.02 - Current</sup> <a class="code" href="https://github.com/deepguider/DeepGuider">[code]</a> <br/> 
+- **DeepGuider** <sup>2019.02 - 2023.04</sup> <a class="code" href="https://github.com/deepguider/DeepGuider">[code]</a> <br/> 
 The DeepGuider Project is a national government-funded research project focused on developing a navigation guidance system for robots to navigate urban environments without pre-mapping.
 I contribute to finding clues to locate autonomous robots by detecting and recognizing points of interests (POIs) in images of a scene, including text, landmarks, and doors for indoor-outdoor transition, while also developing robust training methods for environmental changes.
 
