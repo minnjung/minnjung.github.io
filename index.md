@@ -42,6 +42,10 @@ and (iii) utilizing high-level semantic information for place recognition and 3D
 
 ### Publications
 
+- **Rethinking the Role of Queries in 3D Dense Captioning** <br/>
+**Minjung Kim**, Gunhee Kim <br/>
+KCC 2024
+
 - **See It All: Contextualized Late Aggregation for 3D Dense Captioning** <br/>
 **Minjung Kim**, Hyung Suk Lim, Seung Hwan Kim, Soonyoung Lee, Bumsoo Kim*, Gunhee Kim* <br/>
 ACL 2024 Findings
@@ -95,9 +99,10 @@ KCS 2017
 <h4 class="experiences">
   <i class="material-icons md-18">work</i>
   <a href="https://www.lgresearch.ai/ourwork/research?tab=PG">LG AI Research</a>, Seoul, Korea
-  <sup>2023.06 - Current</sup>
+  <sup> 2023.06 - 2024.05 </sup>
 </h4>
 
+- Vision and Multimodal Lab
 - Research intern
 
 
