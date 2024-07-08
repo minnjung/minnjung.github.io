@@ -9,7 +9,7 @@ and studying under the supervision of **[Prof. Gunhee Kim](https://vision.snu.ac
 My research interests are in the field of Visual Localization and 3D Dense Captioning, <br/>
 especially about
 (i) understanding the scene from images and point clouds,
-(ii) dealing with multi-modalities, <br/>
+(ii) dealing with multi-modalities,
 and (iii) utilizing high-level semantic information for place recognition and 3D dense captioning.
 
 
@@ -171,7 +171,7 @@ International Conference on Computer Vision (ICCV) 2023 <br/>
 Conference on Computer Vision and Pattern Recognition (CVPR) 2023 <br/>
 Asian Conference on Computer Vision (ACCV) 2022 <br/>
 International Conference on Learning Representations (ICLR) 2022, 2023 <br/>
-Neural Information Processing Systems (NeurIPS) 2021, 2022, 2023 <br/>
+Neural Information Processing Systems (NeurIPS) 2021, 2022, 2023, 2024 <br/>
 
 - **Technical Coaching** <br/>
 2022-3 SK hynix ML Engineer Technical Coaching
