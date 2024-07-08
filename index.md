@@ -3,11 +3,13 @@ layout: default
 ---
 
 Hello!
-I am a Ph.D student in CSE at Seoul National University, and studying under the supervision of [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/).
+I am a Ph.D student in CSE at Seoul National University, <br/>
+and studying under the supervision of **[Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/)**.
 
-My research interests are in the field of Visual Localization and 3D Dense Captioning, especially about
+My research interests are in the field of Visual Localization and 3D Dense Captioning, <br/>
+especially about
 (i) understanding the scene from images and point clouds,
-(ii) dealing with multi-modalities,
+(ii) dealing with multi-modalities, <br/>
 and (iii) utilizing high-level semantic information for place recognition and 3D dense captioning.
 
 
@@ -22,7 +24,7 @@ and (iii) utilizing high-level semantic information for place recognition and 3D
 
 - Integrated M.S./Ph.D. student in [Computer Science and Engineering]
 - Cumulative GPA: 4.03 / 4.3 (4.23 / 4.5)
-- Advisor: [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/)
+- Advisor: **[Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/)**
 
 [Computer Science and Engineering]: https://cse.snu.ac.kr/en
 
@@ -34,7 +36,7 @@ and (iii) utilizing high-level semantic information for place recognition and 3D
 
 - B.S. in [Computer Science and Engineering]
 - Cumulative GPA: 3.58 / 4.3 (3.88 / 4.5), **Magna Cum Laude**
-- Advisor: [Prof. Hyukjun Lee](http://ecl.sogang.ac.kr)
+- Advisor: **[Prof. Hyukjun Lee](http://ecl.sogang.ac.kr)**
 
 [Computer Science and Engineering]: https://ecs.sogang.ac.kr/ecs/index_new.html
 
