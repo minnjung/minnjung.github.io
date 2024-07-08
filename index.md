@@ -44,7 +44,6 @@ and (iii) utilizing high-level semantic information for place recognition and 3D
 
 - **Contexts through Structural Insights: Rethinking the Roles of Structural Geometry in 3D Dense Captioning** <br/>
 **Minjung Kim**, Hyungsuk Lim, Soonyoung Lee, Bumsoo Kim<sup>\*</sup>, Gunhee Kim<sup>\*</sup> <br/>
-(<sup>\*</sup> equal contribution)
 ECCV 2024
 
 - **Rethinking the Role of Queries in 3D Dense Captioning** <br/>
@@ -52,8 +51,8 @@ ECCV 2024
 KCC 2024
 
 - **See It All: Contextualized Late Aggregation for 3D Dense Captioning** <br/>
-**Minjung Kim**, Hyung Suk Lim, Seung Hwan Kim, Soonyoung Lee, Bumsoo Kim<sup>\*</sup>, Gunhee Kim<sup>\*</sup> <br/>
-(<sup>\*</sup> equal contribution)
+**Minjung Kim**, Hyung Suk Lim, Seung Hwan Kim, Soonyoung Lee, <br/>
+Bumsoo Kim<sup>\*</sup>, Gunhee Kim<sup>\*</sup> <br/>
 ACL 2024 Findings
 <a class="code" href="https://openreview.net/forum?id=NVhRn_B29i">[OpenReview]</a>
 
