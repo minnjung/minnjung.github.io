@@ -44,7 +44,7 @@ and (iii) utilizing high-level semantic information for place recognition and 3D
 
 ### Publications
 
-- **Contexts through Structural Insights: Rethinking the Roles of Structural Geometry in 3D Dense Captioning** <br/>
+- **Bi-directional Contextual Attention for 3D Dense Captioning** <br/>
 **Minjung Kim**, Hyung Suk Lim, Soonyoung Lee, Bumsoo Kim<sup>\*</sup>, Gunhee Kim<sup>\*</sup> <br/>
 ECCV 2024
 
