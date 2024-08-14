@@ -46,8 +46,8 @@ and (iii) utilizing high-level semantic information for place recognition and 3D
 
 - **Bi-directional Contextual Attention for 3D Dense Captioning** <br/>
 **Minjung Kim**, Hyung Suk Lim, Soonyoung Lee, Bumsoo Kim<sup>\*</sup>, Gunhee Kim<sup>\*</sup> <br/>
-ECCV 2024
-<a class="code" href="https://arxiv.org/abs/2408.06662">[arxiv]</a>
+ECCV 2024 (**Oral session**)
+<a class="code" href="https://arxiv.org/abs/2408.06662">[arXiv]</a>
 
 - **Rethinking the Role of Queries in 3D Dense Captioning** <br/>
 **Minjung Kim**, Gunhee Kim <br/>
@@ -63,7 +63,7 @@ ACL 2024 Findings
 - **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization** <br/>
 **Minjung Kim**, Junseo Koo, Gunhee Kim <br/>
 ICCV 2023
-<a class="code" href="http://arxiv.org/abs/2309.07471">[arxiv]</a>
+<a class="code" href="http://arxiv.org/abs/2309.07471">[arXiv]</a>
 <a class="code" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_EP2P-Loc_End-to-End_3D_Point_to_2D_Pixel_Localization_for_Large-Scale_ICCV_2023_paper.pdf">[pdf]</a>
 <a class="code" href="https://github.com/minnjung/EP2P-Loc">[code]</a>
 
@@ -76,7 +76,7 @@ UR 2022
 Jaekyeom Kim, **Minjung Kim**, Dongyeon Woo, Gunhee Kim <br/>
 ICLR 2021
 <a class="code" href="https://openreview.net/forum?id=1rxHOBjeDUW">[OpenReview]</a>
-<a class="code" href="https://arxiv.org/abs/2103.12300">[arxiv]</a>
+<a class="code" href="https://arxiv.org/abs/2103.12300">[arXiv]</a>
 <a class="code" href="https://openreview.net/pdf?id=1rxHOBjeDUW">[pdf]</a>
 <a class="code" href="https://iclr.cc/virtual/2021/poster/3127">[talk]</a>
 <a class="code" href="https://github.com/jaekyeom/drop-bottleneck">[code]</a>
@@ -90,7 +90,7 @@ CICS 2020
 Youngjin Kim, **Minjung Kim**, Gunhee Kim <br/>
 ICLR 2018
 <a class="code" href="https://openreview.net/forum?id=rkO3uTkAZ">[OpenReview]</a>
-<a class="code" href="https://arxiv.org/abs/1803.01500">[arxiv]</a>
+<a class="code" href="https://arxiv.org/abs/1803.01500">[arXiv]</a>
 <a class="code" href="https://openreview.net/pdf?id=rkO3uTkAZ">[pdf]</a>
 <a class="code" href="https://github.com/whyjay/memoryGAN">[code]</a>
 
