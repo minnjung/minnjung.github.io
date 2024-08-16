@@ -58,6 +58,7 @@ KCC 2024
 Bumsoo Kim<sup>\*</sup>, Gunhee Kim<sup>\*</sup> <br/>
 ACL 2024 Findings
 <a class="code" href="https://openreview.net/forum?id=NVhRn_B29i">[OpenReview]</a>
+<a class="code" href="https://arxiv.org/abs/2408.07648">[arXiv]</a>
 <a class="code" href="https://underline.io/events/466/posters/18354/poster/102446-see-it-all-contextualized-late-aggregation-for-3d-dense-captioning?tab=Video">[Underline]</a>
 
 - **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization** <br/>
