@@ -46,7 +46,7 @@ and (iii) utilizing high-level semantic information for place recognition and 3D
 
 - **Bi-directional Contextual Attention for 3D Dense Captioning** <br/>
 **Minjung Kim**, Hyung Suk Lim, Soonyoung Lee, Bumsoo Kim<sup>\*</sup>, Gunhee Kim<sup>\*</sup> <br/>
-ECCV 2024 (**Oral session**)
+ECCV 2024 (**Oral presentation**)
 <a class="code" href="https://arxiv.org/abs/2408.06662">[arXiv]</a>
 
 - **Rethinking the Role of Queries in 3D Dense Captioning** <br/>
