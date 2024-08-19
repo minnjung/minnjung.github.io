@@ -118,7 +118,7 @@ KCS 2017
 
 
 
-### Awards & Honorships
+### Awards & Scholarships
 
 - [**Animal Datathon Korea**](https://blog.naver.com/aidkr/222518300737) (2nd place, 2021)
 - [**Samsung Humantech Paper Award**](https://humantech.samsung.com/saitext/intro.do) (Silver Prize in Signal Processing, 2021)
