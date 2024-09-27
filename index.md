@@ -48,6 +48,7 @@ and (iii) utilizing high-level semantic information for place recognition and 3D
 **Minjung Kim**, Hyung Suk Lim, Soonyoung Lee, Bumsoo Kim<sup>\*</sup>, Gunhee Kim<sup>\*</sup> <br/>
 ECCV 2024 (**Oral presentation**)
 <a class="code" href="https://arxiv.org/abs/2408.06662">[arXiv]</a>
+<a class="code" href="https://minnjung.github.io/BiCA">[HTML]</a>
 
 - **Rethinking the Role of Queries in 3D Dense Captioning** <br/>
 **Minjung Kim**, Gunhee Kim <br/>
