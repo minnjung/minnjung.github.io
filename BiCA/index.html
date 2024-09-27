@@ -250,6 +250,7 @@
             </figure>
           </div>
         </div>
+          <div class="container is-max-desktop content">
           <p>
             The overall pipeline of BiCA. We parallelly generate and decode two sets of queries (i.e., Instance Query and Context Query) that encodes the instance features and the non-object context features throughout the global scene, respectively. The object-aware contexts are calculated per each object by the weighted sum of the context queries, where the weights are calculated by the attention between the decoded instance query and context query. Then, with the object-aware context feature, the context-aware object feature is obtained by the weighted sum of the instances, which is weighted by the attention between the object-aware contexts.
           </p>
@@ -258,7 +259,7 @@
     </section>
     
     <section class="section">
-      <h3 class="title is-3 has-text-centered">Experimental Result</h3>
+      <h3 class="title is-3 has-text-centered">Experimental Results</h3>
       <div class="container is-max-desktop content">
           
           <figure>
