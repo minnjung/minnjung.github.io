@@ -49,6 +49,7 @@ and (iii) utilizing high-level semantic information for place recognition and 3D
 ECCV 2024 (**Oral presentation**)
 <a class="code" href="https://arxiv.org/abs/2408.06662">[arXiv]</a>
 <a class="code" href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02804.pdf">[pdf]</a>
+<a class="code" href="https://eccv.ecva.net/virtual/2024/poster/114">[poster]</a>
 <a class="code" href="https://minnjung.github.io/BiCA">[HTML]</a>
 
 - **Rethinking the Role of Queries in 3D Dense Captioning** <br/>
