@@ -123,7 +123,7 @@ KCS 2017
 
 ### Awards & Scholarships
 
-- [**YoulChon AI Star Scholarship**](https://aiis.snu.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=555) at YoulChon, 2024
+- [**YoulChon AI Star Fellowship**](https://aiis.snu.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=555) at YoulChon, 2024
 - [**Animal Datathon Korea**](https://blog.naver.com/aidkr/222518300737) (2nd place, 2021)
 - [**Samsung Humantech Paper Award**](https://humantech.samsung.com/saitext/intro.do) (Silver Prize in Signal Processing, 2021)
 - [**KSC 2017 Paper Award**](http://www.kiise.or.kr/conference/board/boardview.do?CC=KSC&CS=2017&PARENT_ID=011400&NUM=104) (Encouragement Award, 2018)
