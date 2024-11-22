@@ -6,11 +6,11 @@ Hello!
 I am a Ph.D student in CSE at Seoul National University, <br/>
 and studying under the supervision of **[Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/)**.
 
-My research interests are in the field of Visual Localization and 3D Dense Captioning, <br/>
-especially about
-(i) understanding the scene from images and point clouds,
-(ii) dealing with multi-modalities,
-and (iii) utilizing high-level semantic information for place recognition and 3D dense captioning.
+My research focuses on **Visual Localization** and **3D Dense Captioning** for enhanced 3D scene understanding, <br/>
+with particular interest in: 
+(i) understanding complex scenes from images and point clouds, 
+(ii) effectively handling multi-modalities, 
+and (iii) achieving a comprehensive understanding of 3D scenes through natural language.
 
 
 
@@ -124,6 +124,7 @@ KCS 2017
 
 ### Awards & Scholarships
 
+- [**YoulChon AI Star Scholarship**](https://aiis.snu.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=555) at YoulChon, 2024
 - [**Animal Datathon Korea**](https://blog.naver.com/aidkr/222518300737) (2nd place, 2021)
 - [**Samsung Humantech Paper Award**](https://humantech.samsung.com/saitext/intro.do) (Silver Prize in Signal Processing, 2021)
 - [**KSC 2017 Paper Award**](http://www.kiise.or.kr/conference/board/boardview.do?CC=KSC&CS=2017&PARENT_ID=011400&NUM=104) (Encouragement Award, 2018)
@@ -180,6 +181,9 @@ Conference on Computer Vision and Pattern Recognition (CVPR) 2023 <br/>
 Asian Conference on Computer Vision (ACCV) 2022 <br/>
 International Conference on Learning Representations (ICLR) 2022, 2023 <br/>
 Neural Information Processing Systems (NeurIPS) 2021, 2022, 2023, 2024 <br/>
+
+- **Reviewer of International Journals** <br/>
+International Journal of Computer Vision (IJCV) 2024 <br/>
 
 - **Technical Coaching** <br/>
 2022-3 SK hynix ML Engineer Technical Coaching
