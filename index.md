@@ -6,8 +6,7 @@ Hello!
 I am a Ph.D student in CSE at Seoul National University, <br/>
 and studying under the supervision of **[Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/)**.
 
-My research focuses on **Visual Localization** and **3D Dense Captioning** for enhanced 3D scene understanding, <br/>
-with particular interest in: 
+My research focuses on **Visual Localization** and **3D Dense Captioning** for enhanced 3D scene understanding, with particular interest in: 
 (i) understanding complex scenes from images and point clouds, 
 (ii) effectively handling multi-modalities, 
 and (iii) achieving a comprehensive understanding of 3D scenes through natural language.
