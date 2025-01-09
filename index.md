@@ -53,6 +53,7 @@ ECCV 2024 (**Oral presentation**)
 - **Rethinking the Role of Queries in 3D Dense Captioning** <br/>
 **Minjung Kim**, Gunhee Kim <br/>
 KCC 2024
+<a class="code" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862160">[pdf]</a>
 
 - **See It All: Contextualized Late Aggregation for 3D Dense Captioning** <br/>
 **Minjung Kim**, Hyung Suk Lim, Seung Hwan Kim, Soonyoung Lee, <br/>
