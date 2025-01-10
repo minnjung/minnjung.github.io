@@ -106,7 +106,7 @@ KCS 2017
 - **Sketch based Face Image Generation with Text Mapping** <br/>
 **Minjung Kim**, Hyung Suk Lim, Yeongjoon Park, Yeseul Joo, Myoungwan Koo <br/>
 KCS 2017
-
+<a class="code" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322778">[pdf]</a>
 
 
 ### Experiences
