@@ -99,12 +99,12 @@ ICLR 2018
 <a class="code" href="https://github.com/whyjay/memoryGAN">[code]</a>
 
 - **Machine Learning for Determining Duplicate Question** <br/>
-**Minjung Kim**, Yeongjoon Park, Hyungsuk Lim, Jihoon Yang <br/>
+**Minjung Kim**, Yeongjoon Park, Hyung Suk Lim, Jihoon Yang <br/>
 KCS 2017
 <a class="code" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322773">[pdf]</a>
 
 - **Sketch based Face Image Generation with Text Mapping** <br/>
-**Minjung Kim**, Hyung Suk Lim, Yeongjoon Park, Yeseul Joo, Myoungwan Koo <br/>
+**Minjung Kim**, Hyung Suk Lim, Yeongjoon Park, Yeseul Joo, Myoung Wan Koo <br/>
 KCS 2017
 <a class="code" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322778">[pdf]</a>
 
