@@ -23,7 +23,7 @@ and (iii) achieving a comprehensive understanding of 3D scenes through natural l
 - Integrated M.S./Ph.D. student in [Computer Science and Engineering]
 - Cumulative GPA: 4.03 / 4.3 (4.23 / 4.5)
 - Advisor: **[Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/)**
-- **Outstanding Doctoral Thesis Award**
+- **Outstanding Doctoral Thesis Award 🎓✨**
 
 [Computer Science and Engineering]: https://cse.snu.ac.kr/en
 
