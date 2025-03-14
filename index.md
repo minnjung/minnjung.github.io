@@ -16,7 +16,7 @@ and (iii) achieving a comprehensive understanding of 3D scenes through natural l
 
 <h4 class="education">
   <i class="material-icons md-18">account_balance</i>
-  <a href="http://en.snu.ac.kr/">Seoul National University (SNU)</a>, Seoul, Korea
+  <a href="http://en.snu.ac.kr/">Seoul National University</a>, Seoul, Korea
   <sup>2018.03 - 2025.02</sup>
 </h4>
 
@@ -111,6 +111,15 @@ KCS 2017
 
 
 ### Experiences
+
+<h4 class="experiences">
+  <i class="material-icons md-18">account_balance</i>
+  <a href="http://en.snu.ac.kr/">Seoul National University</a>, Seoul, Korea
+  <sup> 2025.03 - Current </sup>
+</h4>
+
+- Vision and Learning Lab
+- Postdoctoral researcher
 
 <h4 class="experiences">
   <i class="material-icons md-18">work</i>
