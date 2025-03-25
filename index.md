@@ -115,7 +115,7 @@ KCS 2017
 <h4 class="experiences">
   <i class="material-icons md-18">account_balance</i>
   <a href="http://en.snu.ac.kr/">Seoul National University</a>, Seoul, Korea
-  <sup> 2025.03 - Current </sup>
+  <sup> 2025.02 - Current </sup>
 </h4>
 
 - Vision and Learning Lab
