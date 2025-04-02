@@ -3,7 +3,7 @@ layout: default
 ---
 
 Hello!
-I am a Ph.D student in CSE at Seoul National University, and studying under the supervision of **[Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/)**.
+I am a Postdoctoral Researcher in CSE at Seoul National University, and studying under the supervision of **[Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/)**.
 
 My research focuses on **Visual Localization** and **3D Dense Captioning** for enhanced 3D scene understanding, with particular interest in: 
 (i) understanding complex scenes from images and point clouds, 
