@@ -23,7 +23,7 @@ and (iii) achieving a comprehensive understanding of 3D scenes through natural l
 - Integrated M.S./Ph.D. student in [Computer Science and Engineering]
 - Cumulative GPA: 4.03 / 4.3 (4.23 / 4.5)
 - Advisor: **[Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/)**
-- **Outstanding Doctoral Thesis Award 🎓✨**
+- [**Outstanding Doctoral Thesis Award 🎓✨**](https://cse.snu.ac.kr/community/news/1186)
 
 [Computer Science and Engineering]: https://cse.snu.ac.kr/en
 
@@ -134,7 +134,7 @@ KCS 2017
 
 ### Awards & Scholarships
 
-- **Outstanding Doctoral Thesis Award** at Dept. of Computer Science and Engineering, Seoul National University, 2025
+- [**Outstanding Doctoral Thesis Award**](https://cse.snu.ac.kr/community/news/1186) at Dept. of Computer Science and Engineering, Seoul National University, 2025
 - [**YoulChon AI Star Fellowship**](https://aiis.snu.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=555) at YoulChon Foundation, Nongshim Group, 2024
 - [**Animal Datathon Korea**](https://blog.naver.com/aidkr/222518300737) (2nd place, 2021)
 - [**27th Samsung Humantech Paper Award**](https://humantech.samsung.com/saitext/index.jsp) (Silver Prize in Signal Processing, 2021)
