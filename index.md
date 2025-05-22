@@ -134,7 +134,7 @@ KCS 2017
 
 ### Awards & Scholarships
 
-- [**Outstanding Doctoral Thesis Award**](https://cse.snu.ac.kr/community/news/1186) at Dept. of Computer Science and Engineering, Seoul National University, 2025
+- [**Outstanding Doctoral Thesis Award**](https://cse.snu.ac.kr/community/news/1186) at Dept. of Computer Science and Engineering, Seoul National University, 2025 <!-- 2025.02.26 -->
 - [**YoulChon AI Star Fellowship**](https://aiis.snu.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=555) at YoulChon Foundation, Nongshim Group, 2024
 - [**Animal Datathon Korea**](https://blog.naver.com/aidkr/222518300737) (2nd place, 2021)
 - [**The 27th Samsung Humantech Paper Award**](https://humantech.samsung.com/saitext/index.jsp) (Silver Prize in Signal Processing, 2021)
