@@ -139,7 +139,7 @@ KCS 2017
 - [**Animal Datathon Korea**](https://blog.naver.com/aidkr/222518300737) (2nd place, 2021) <!-- 2021.09.27 -->
 - [**The 27th Samsung Humantech Paper Award**](https://humantech.samsung.com/saitext/index.jsp) (Silver Prize in Signal Processing, 2021) <!-- 2021.01.29 -->
 - [**KSC 2017 Paper Award**](http://www.kiise.or.kr/conference/board/boardview.do?CC=KSC&CS=2017&PARENT_ID=011400&NUM=104) (Encouragement Award, 2018) <!-- 2018.02.06 -->
-- **Magna Cum Laude Honor** at Sogang University, 2018
+- **Magna Cum Laude Honor** at Sogang University, 2018 <!-- 2018.02.20 -->
 - **Academic Excellence Scholarship** at Sogang University, 2017 and 2018.
 - **Windows 10 IoT Core & Microsoft Azure for Microsoft IoT Solution Competition** (10th place, 2017)
 
