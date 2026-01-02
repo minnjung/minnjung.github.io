@@ -3,13 +3,15 @@ layout: default
 ---
 
 Hello!
-I am a Postdoctoral Researcher in CSE at Seoul National University, and studying under the supervision of **[Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/)**.
+I am an AI Scientist at the Physical Intelligence Lab, LG AI Research.
+Prior to joining LG, I was a Postdoctoral Researcher in CSE at Seoul National University, where I also earned my Ph.D. under the supervision of **[Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/)**.
 
 My research focuses on **Visual Localization** and **3D Dense Captioning** for enhanced 3D scene understanding, with particular interest in: 
 (i) understanding complex scenes from images and point clouds, 
 (ii) effectively handling multi-modalities, 
 and (iii) achieving a comprehensive understanding of 3D scenes through natural language.
 
+At LG AI Research, I am currently focusing on advancing Physical Intelligence to bridge the gap between AI and the physical world.
 
 
 ### Education
@@ -115,7 +117,16 @@ KCS 2017
 <h4 class="experiences">
   <i class="material-icons md-18">work</i>
   <a href="https://www.lgresearch.ai/ourwork/research?tab=PC">LG AI Research</a>, Seoul, Korea
-  <sup> 2025.06 - Current </sup>
+  <sup> 2026.01 - Current </sup>
+</h4>
+
+- Physical Intelligence Lab
+- AI Scientist
+
+<h4 class="experiences">
+  <i class="material-icons md-18">work</i>
+  <a href="https://www.lgresearch.ai/ourwork/research?tab=PC">LG AI Research</a>, Seoul, Korea
+  <sup> 2025.06 - 2025.12 </sup>
 </h4>
 
 - Vision Lab
