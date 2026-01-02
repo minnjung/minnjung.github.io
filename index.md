@@ -119,36 +119,28 @@ KCS 2017
   <a href="https://www.lgresearch.ai/ourwork/research?tab=PC">LG AI Research</a>, Seoul, Korea
   <sup> 2026.01 - Current </sup>
 </h4>
-
-- Physical Intelligence Lab
-- AI Scientist
+- AI scientist, Physical Intelligence Lab
 
 <h4 class="experiences">
   <i class="material-icons md-18">work</i>
   <a href="https://www.lgresearch.ai/ourwork/research?tab=PC">LG AI Research</a>, Seoul, Korea
   <sup> 2025.06 - 2025.12 </sup>
 </h4>
-
-- Vision Lab
-- AI Scientist
+- AI scientist, Vision Lab
 
 <h4 class="experiences">
   <i class="material-icons md-18">account_balance</i>
   <a href="http://en.snu.ac.kr/">Seoul National University</a>, Seoul, Korea
   <sup> 2025.02 - 2025.06 </sup>
 </h4>
-
-- Vision and Learning Lab
-- Postdoctoral researcher
+- Postdoctoral researcher, Vision and Learning Lab
 
 <h4 class="experiences">
   <i class="material-icons md-18">work</i>
   <a href="https://www.lgresearch.ai/ourwork/research?tab=PG">LG AI Research</a>, Seoul, Korea
   <sup> 2023.06 - 2024.05 </sup>
 </h4>
-
-- Vision and Multimodal Lab
-- Research intern
+- Research intern, Vision and Multimodal Lab
 
 
 
