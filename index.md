@@ -216,5 +216,5 @@ Neural Information Processing Systems (NeurIPS) 2021, 2022, 2023, 2024 <br/>
 International Journal of Computer Vision (IJCV) 2024 <br/>
 
 - **Technical Coaching** <br/>
-2022-3 SK hynix ML Engineer Technical Coaching
+2022-3 SK Hynix ML Engineer Technical Coaching
 
