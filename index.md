@@ -6,12 +6,19 @@ Hello!
 I am an **AI Scientist** at the **Physical Intelligence Lab**, **LG AI Research**.
 Prior to joining LG, I was a Postdoctoral Researcher in CSE at Seoul National University, where I also earned my Ph.D. under the supervision of **[Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/)**.
 
+During my Ph.D. and postdoctoral training, my research focused on **Visual Localization** and **3D Dense Captioning** to enhance 3D scene understanding. 
+Building on this background in multi-modal learning and complex scene understanding, my research has naturally evolved toward bridging the gap between AI and the physical world.
+
+At LG AI Research, I am currently leading the development of vision foundation models for automated inspection, advancing Physical Intelligence to accurately perceive and analyze real-world physical environments.
+
+<!-- 
 My research focuses on **Visual Localization** and **3D Dense Captioning** for enhanced 3D scene understanding, with particular interest in: 
 (i) understanding complex scenes from images and point clouds, 
 (ii) effectively handling multi-modalities, 
 and (iii) achieving a comprehensive understanding of 3D scenes through natural language.
 
-At LG AI Research, I am currently focusing on advancing Physical Intelligence to bridge the gap between AI and the physical world.
+At LG AI Research, I am currently focusing on advancing Physical Intelligence to bridge the gap between AI and the physical world. 
+-->
 
 
 ### Education
